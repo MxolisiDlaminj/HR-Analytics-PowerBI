@@ -67,17 +67,6 @@ This dashboard enables HR managers and business leaders to:
 
 ---
 
-## Project Screenshots
-
-Add screenshots of:
-
-* Dashboard Overview
-* Employee Analysis Page
-* Attrition Analysis Page
-* Department Performance Dashboard
-
----
-
 ## Learning Outcomes
 
 Through this project, I strengthened my skills in:
