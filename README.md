@@ -86,9 +86,8 @@ Through this project, I strengthened my skills in:
 
 🎓 BCom Management Information Systems Graduate
 
-📧 Email: *Your Email*
+📧 Email: *torontomxoe@gmail.com*
 
-💼 LinkedIn: *Your LinkedIn Profile*
 
 💻 GitHub: [https://github.com/MxolisiDlaminj](https://github.com/MxolisiDlaminj)
 
